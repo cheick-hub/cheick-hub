@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cheick-hub
+- 👀 I’m interested in Machine learning & Deep learning
+- 🌱 I’m currently pursuing a master degree on machine learning
+- 💞️ I’m looking to collaborate on machine learning subjects
+- 📫 How to reach me fofanacheicktidiane78@gmail.com
